@@ -172,7 +172,12 @@ If you find MoMP useful in your research, please cite:
 ```bibtex
 @inproceedings{momp2026,
   title     = {MoMP: Mixture of Message Passing for Graph Neural Networks},
-  author    = {Anonymous},
+  author    = { Zhaojun Luo and
+                Jintang Li and
+                Yuchang Zhu and
+                Yun Fu and
+                Liang Chen and
+                Zibin Zheng},
   booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge
                Discovery and Data Mining (KDD)},
   year      = {2026}
